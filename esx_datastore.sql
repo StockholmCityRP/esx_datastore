@@ -1,4 +1,4 @@
-USE `essentialmode`;
+USE `fivem2337`;
 
 CREATE TABLE `datastore` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
